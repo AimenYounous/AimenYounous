@@ -1,7 +1,1 @@
-- 👋 Hi, I'm @AimenYounous student in
-- 👀 I'm interested in ...IA , Web Development
-- 🌱 I'm currently learning ...Python,html,css
-- 💞 I'm looking to collaborate on ...Backend project
-- 📫 How to reach me ...email:younousaimen@gmail.com/linkedin:www.linkedin.com/in/aimen-younous
-- 😄 Pronouns: ...
-- ⚡ Fun Fact: ...speak three languages fluently.
+
